@@ -152,8 +152,8 @@
 
         sym_en {
             bindings = <
-  &none           &kp LT          &kp EQUAL         &kp GT           &kp GRAVE                    &kp CARET  &kp LBKT         &kp UNDER         &kp RBKT       &none
-  &hml LGUI BSLH  &hml LALT LPAR  &hml LSHFT MINUS  &hml LCTRL RPAR  &kp PLUS                     &kp PRCNT  &kp LBRC         &kp SEMI          &kp RBRC       &kp EXCL
+  &none           &kp LT          &kp EQUAL         &kp GT           &kp GRAVE                    &kp CARET  &kp LBKT         &kp UNDER         &kp RBKT       &kp EXCL
+  &hml LGUI BSLH  &hml LALT LPAR  &hml LSHFT MINUS  &hml LCTRL RPAR  &kp PLUS                     &kp PRCNT  &kp LBRC         &kp SEMI          &kp RBRC       &mo 6
   &kp HASH        &kp STAR        &kp COLON         &kp FSLH         &none                        &none      &hmr RCTRL PIPE  &hmr RSHFT COMMA  &hmr RALT DOT  &hmr RGUI QMARK
                                                     &trans           &mo 5      &trans    &trans  &none      &trans
             >;
